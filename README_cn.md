@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://alistgo.com"><img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
-  <p><em>🗂一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。</em></p>
+  <p><em>🗂Alist_v3.40.0，使用 Gin 和 Solidjs。</em></p>
 <div>
   <a href="https://goreportcard.com/report/github.com/alist-org/alist/v3">
     <img src="https://goreportcard.com/badge/github.com/alist-org/alist/v3" alt="latest version" />
@@ -97,21 +97,9 @@
 - [x] 跨存储复制文件
 - [x] 单线程下载/串流的多线程下载加速
 
-## 文档
-
-<https://alistgo.com/zh/>
-
 ## API 文档（通过 Apifox 提供）
 
 <https://alist-public.apifox.cn/>
-
-## Demo
-
-<https://al.nn.ci>
-
-## 讨论
-
-一般问题请到[讨论论坛](https://github.com/alist-org/alist/discussions) ，**issue仅针对错误报告和功能请求。**
 
 ## 赞助
 
