@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://alistgo.com"><img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
-  <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs.</em></p>
+  <p><em>🗂️Alist_v3.40.0, powered by Gin and Solidjs.</em></p>
 <div>
   <a href="https://goreportcard.com/report/github.com/alist-org/alist/v3">
     <img src="https://goreportcard.com/badge/github.com/alist-org/alist/v3" alt="latest version" />
@@ -99,26 +99,10 @@ English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Contributing
 - [x] Copy files between two storage
 - [x] Multi-thread downloading acceleration for single-thread download/stream
 
-## Document
-
-<https://alistgo.com/>
 
 ## API Documentation (via Apifox):
 
 <https://alist-public.apifox.cn/>
-
-## Demo
-
-<https://al.nn.ci>
-
-## Discussion
-
-Please go to our [discussion forum](https://github.com/alist-org/alist/discussions) for general questions, **issues are for bug reports and feature requests only.**
-
-## Sponsor
-
-AList is an open-source software, if you happen to like this project and want me to keep going, please consider sponsoring me or providing a single donation! Thanks for all the love and support:
-https://alistgo.com/guide/sponsor.html
 
 ### Special sponsors
 
