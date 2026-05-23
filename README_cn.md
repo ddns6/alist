@@ -39,7 +39,7 @@
 
 ---
 
-[English](./README.md) | 中文 | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+[English](./README.md) | 中文 | [Contributing](./CONTRIBUTING.md)
 
 ## 功能
 
