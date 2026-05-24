@@ -39,7 +39,7 @@
 
 ---
 
-[English](./README.md) | 中文 | [Contributing](./CONTRIBUTING.md)
+[English](./README.md) | 中文
 
 ## 功能
 
